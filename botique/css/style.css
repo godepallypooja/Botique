@@ -1,0 +1,24 @@
+
+body{margin:0 auto;padding:0 auto;}
+.header{float:right;width:100%;background-color:pink;color:brown;text-align:center;}
+
+.menu li{display:inline;text-transform:capitalize;padding:0em 3em 0em 3em;
+font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-size: 14px;}
+
+
+.herosection{float:left;width:100%;text-align:center;background-color:black;color:white;padding:15em 0em 15em 0em;
+background-image:url('../img/img1.jpg');background-size:100% 100%;background-repeat:no-repeat;color:black;}
+
+.f1 {float:left;width:25%;text-align:center;}
+/**.first p{float:left;width:25%;}**/
+.f2 {float:left;width:25%;text-align:center;}
+.f3 {float:left;width:25%;text-align:center;}
+.f4 {float:left;width:25%;text-align:center;}
+
+
+/**.herosection h2{  font-family:"Rochester",cursive;font-weight:400;text-transform:capitalize;font-size:250px;}
+
+.herosection p{font-family:"open sans",sans-serif;font-size:24px; font-weight:400;}
+/**
